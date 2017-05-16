@@ -1,0 +1,2 @@
+https://check.torproject.org/
+socks5h://Localhost:9150
